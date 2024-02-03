@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @josephjossy
-- 👀 I’m interested in coding solutions
-- 🌱 I’m currently learning additional skills
+- 👀 I’m interested in coding solutions.
 - 💞️ I’m looking to collaborate on Software Engineering
 - 📫 reach me for more.
 
