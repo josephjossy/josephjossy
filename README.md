@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @josephjossy
+- 👋 Hi, I’m Joseph Karanja a Software Engineer
 - 👀 I’m interested in coding solutions.
-- 💞️ I’m looking to collaborate on Software Engineering
+- 💞️ I’m looking to collaborate on Software Engineering tasks.
 - 📫 reach me for more.
 
 <!---
